@@ -33,7 +33,6 @@ Also experimenting with `Python`, `TypeScript`, automation, local-first tools, a
 - [yutori](https://github.com/Kat4X/yutori) — personal Android project
 - [video-transcriber](https://github.com/Kat4X/video-transcriber) — CLI/Web tool for video transcription with Whisper
 - [app-android-searcher](https://github.com/Kat4X/app-android-searcher) — Android app/search experiments
-- [idocs-android-app](https://github.com/Kat4X/idocs-android-app) — Android app project with Kotlin/Java
 
 ## Contact
 
